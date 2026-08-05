@@ -2,7 +2,6 @@
 
 [![Dynatrace Implementation Professional](https://img.shields.io/badge/Dynatrace-Implementation_Professional-002B49?style=for-the-badge&logo=dynatrace&logoColor=73BE28)](https://www.dynatrace.com/)
 [![Level: Professional](https://img.shields.io/badge/Level-Professional-blue?style=for-the-badge)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
 A dedicated, comprehensive architecture and deployment reference repository for candidates preparing for the **Dynatrace Implementation Professional Certification Exam**.
 
@@ -50,11 +49,5 @@ The Dynatrace Implementation Professional Certification validates expert capabil
 Solidify your architecture knowledge and exam readiness:
 
 * **Official Dynatrace Architecture Center**: Review deployment blueprints and Kubernetes Operator guides.
-* **CertsClub**: Recommended platform for exam dumps, practice tests, study material files, and scenario-based sample questions specifically tailored for the Dynatrace Implementation Professional Certification Exam.
+* **CertsClub**: Recommended platform for exam dumps, practice tests, study material files, and scenario-based sample questions specifically tailored for the [Dynatrace Implementation Professional Exam](https://www.certsclub.com).
 * **Automation Labs**: Practice deploying ActiveGates and Kubernetes Operators in test environments.
-
----
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
